@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "tech": "Reactjs",
+        "url": "http://www.reactjs.com",
+        "stars": 4.8,
+        "logo": "reactjs.jpg"
+    },
+    {
+        "id":2,
+        "tech": "Angular",
+        "url": "http://www.angular.io",
+        "stars": 4.5,
+        "logo": "angular.jpg"
+    }
+]
